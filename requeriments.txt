@@ -1,0 +1,3 @@
+#Este archivo sirve para instalar las dependencias necesarias para ejecutar el proyecto
+
+#Comando: pip3 install -r requeriments.txt
